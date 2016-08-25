@@ -1,0 +1,14 @@
+layout_spectrum: 0.5117859512101859
+typography_spectrum: 0.5512925127986819
+color:
+  brandStrength: 0.8055714862421155
+  lightness: 0.34889972442761064
+  saturation: 0.7482123866211623
+  rhythmicContrast: 0.13230738881975412
+  brandColors:
+    - '#FFFFFB'
+    - '#0D120E'
+    - '#C7C9BE'
+    - '#929286'
+    - '#6C6F76'
+name: motorcycles.net
